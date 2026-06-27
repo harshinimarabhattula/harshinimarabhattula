@@ -75,6 +75,8 @@ Mission  : Automate Everything. Break Nothing.
 </div>
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The more perfect a person is on the outside, the more demons they have on the inside."*
-> — Sigmund Freud
+> *"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."*
+> — William James
