@@ -77,6 +77,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."*
-> — William James
+> *"Respect was invented to cover the empty place where love should be."*
+> — Leo Tolstoy
