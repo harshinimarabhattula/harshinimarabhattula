@@ -79,6 +79,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Respect was invented to cover the empty place where love should be."*
-> — Leo Tolstoy
+> *"Inner peace is when you realize that, in the end, nothing matters."*
+> — Maxime Lagace
