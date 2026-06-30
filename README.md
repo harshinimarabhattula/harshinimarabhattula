@@ -81,6 +81,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Inner peace is when you realize that, in the end, nothing matters."*
-> — Maxime Lagace
+> *"Fool me once, shame on you; fool me twice, shame on me."*
+> — Chinese Proverb
