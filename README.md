@@ -83,6 +83,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Fool me once, shame on you; fool me twice, shame on me."*
-> — Chinese Proverb
+> *"Look to the beauty of this day, miracles are all around you."*
+> — Mary Engelbreit
