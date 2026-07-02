@@ -85,6 +85,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Look to the beauty of this day, miracles are all around you."*
-> — Mary Engelbreit
+> *"Wit is educated insolence."*
+> — Aristotle
