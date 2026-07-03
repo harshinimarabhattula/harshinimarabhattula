@@ -87,6 +87,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Wit is educated insolence."*
-> — Aristotle
+> *"Better to live until you die."*
+> — Dan Millman
