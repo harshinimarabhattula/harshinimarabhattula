@@ -89,6 +89,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Better to live until you die."*
-> — Dan Millman
+> *"By seeking and blundering we learn."*
+> — Johann Wolfgang von Goethe
