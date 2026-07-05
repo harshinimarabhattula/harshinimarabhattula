@@ -91,6 +91,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"By seeking and blundering we learn."*
-> — Johann Wolfgang von Goethe
+> *"Doing what you love is the cornerstone of having abundance in your life."*
+> — Wayne Dyer
