@@ -93,6 +93,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Doing what you love is the cornerstone of having abundance in your life."*
-> — Wayne Dyer
+> *"As you love yourself, life loves you back."*
+> — Kamal Ravikant
