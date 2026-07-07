@@ -95,6 +95,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"As you love yourself, life loves you back."*
-> — Kamal Ravikant
+> *"A strong man overcomes an obstacle, a wise man goes the whole way."*
+> — Zen Proverb
