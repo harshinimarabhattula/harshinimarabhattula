@@ -99,6 +99,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this."*
-> — Henry David Thoreau
+> *"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."*
+> — Chinese Proverb
