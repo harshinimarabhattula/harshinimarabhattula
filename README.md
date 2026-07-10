@@ -101,6 +101,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."*
-> — Chinese Proverb
+> *"Do good, live in the most positive and joyful way possible every day."*
+> — Roy T. Bennett
