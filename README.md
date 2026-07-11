@@ -103,6 +103,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Do good, live in the most positive and joyful way possible every day."*
-> — Roy T. Bennett
+> *"You become a worrier by practicing worry. You become free of worry by practicing the opposite."*
+> — Norman Vincent Peale
