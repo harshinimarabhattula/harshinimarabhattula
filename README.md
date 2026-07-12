@@ -105,6 +105,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You become a worrier by practicing worry. You become free of worry by practicing the opposite."*
-> — Norman Vincent Peale
+> *"Take responsibility of your own happiness, never put it in other people's hands."*
+> — Roy T. Bennett
