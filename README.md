@@ -107,6 +107,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Take responsibility of your own happiness, never put it in other people's hands."*
-> — Roy T. Bennett
+> *"Optimism is the one quality more associated with success and happiness than any other."*
+> — Brian Tracy
