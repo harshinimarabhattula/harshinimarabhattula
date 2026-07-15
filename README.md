@@ -111,6 +111,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"There are more people who wish to be loved than there are who are willing to love."*
-> — Nicolas Chamfort
+> *"Abundance of knowledge does not teach men to be wise."*
+> — Heraclitus
