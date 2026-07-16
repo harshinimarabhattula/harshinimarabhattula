@@ -113,6 +113,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Abundance of knowledge does not teach men to be wise."*
-> — Heraclitus
+> *"You drown not by falling into a river, but by staying submerged in it."*
+> — Paulo Coelho
