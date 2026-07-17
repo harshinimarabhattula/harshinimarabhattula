@@ -115,6 +115,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You drown not by falling into a river, but by staying submerged in it."*
-> — Paulo Coelho
+> *"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."*
+> — Roy T. Bennett
