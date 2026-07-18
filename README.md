@@ -117,6 +117,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."*
-> — Roy T. Bennett
+> *"Growth comes at the point of resistance."*
+> — Josh Waitzkin
