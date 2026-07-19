@@ -119,6 +119,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Growth comes at the point of resistance."*
-> — Josh Waitzkin
+> *"Don't be afraid to give up the good to go for the great."*
+> — John D. Rockefeller
