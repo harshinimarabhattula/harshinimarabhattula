@@ -121,6 +121,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Don't be afraid to give up the good to go for the great."*
-> — John D. Rockefeller
+> *"I put my heart and soul into my work, and I have lost my mind in the process."*
+> — Vincent van Gogh
