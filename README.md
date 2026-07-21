@@ -123,6 +123,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"I put my heart and soul into my work, and I have lost my mind in the process."*
-> — Vincent van Gogh
+> *"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."*
+> — Nikola Tesla
