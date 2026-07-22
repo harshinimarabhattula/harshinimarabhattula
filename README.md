@@ -125,6 +125,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."*
-> — Nikola Tesla
+> *"Only the hand that erases can write the true thing."*
+> — Meister Eckhart
