@@ -127,6 +127,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Only the hand that erases can write the true thing."*
-> — Meister Eckhart
+> *"Quality is more important than quantity. One home run is much better than two doubles."*
+> — Steve Jobs
