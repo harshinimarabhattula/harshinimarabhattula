@@ -129,6 +129,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Quality is more important than quantity. One home run is much better than two doubles."*
-> — Steve Jobs
+> *"A Quitter never wins - and - a Winner never quits."*
+> — Napoleon Hill
