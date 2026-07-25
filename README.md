@@ -131,6 +131,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"A Quitter never wins - and - a Winner never quits."*
-> — Napoleon Hill
+> *"The fastest way to change is to laugh at your own folly."*
+> — Spencer Johnson
