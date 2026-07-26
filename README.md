@@ -133,6 +133,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The fastest way to change is to laugh at your own folly."*
-> — Spencer Johnson
+> *"The businessman's tool is value."*
+> — Ayn Rand
