@@ -135,6 +135,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The businessman's tool is value."*
-> — Ayn Rand
+> *"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."*
+> — Roy T. Bennett
