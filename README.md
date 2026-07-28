@@ -137,6 +137,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."*
-> — Roy T. Bennett
+> *"You don't get in life what you want; you get in life what you are."*
+> — Les Brown
