@@ -141,6 +141,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The secret of success lies not in doing your own work, but in recognizing the right man to do it."*
-> — Andrew Carnegie
+> *"The important thing is not to stop questioning. Curiosity has its own reason for existing."*
+> — Albert Einstein
