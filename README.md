@@ -143,6 +143,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The important thing is not to stop questioning. Curiosity has its own reason for existing."*
-> — Albert Einstein
+> *"Raise your words, not voice. It is rain that grows flowers, not thunder."*
+> — Rumi
