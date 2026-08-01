@@ -145,6 +145,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Raise your words, not voice. It is rain that grows flowers, not thunder."*
-> — Rumi
+> *"Elegance does not consist in putting on a new dress."*
+> — Coco Chanel
