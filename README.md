@@ -147,6 +147,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Elegance does not consist in putting on a new dress."*
-> — Coco Chanel
+> *"There is always risk, so learn to manage risk instead of avoiding it."*
+> — Robert Kiyosaki
