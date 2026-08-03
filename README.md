@@ -149,6 +149,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"There is always risk, so learn to manage risk instead of avoiding it."*
-> — Robert Kiyosaki
+> *"People learn from their failures. Seldom do they learn anything from success."*
+> — Ryan Holiday
