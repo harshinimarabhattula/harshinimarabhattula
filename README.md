@@ -151,6 +151,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"People learn from their failures. Seldom do they learn anything from success."*
-> — Ryan Holiday
+> *"All human beings can alter their lives by altering their attitudes."*
+> — Andrew Carnegie
