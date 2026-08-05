@@ -153,6 +153,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"All human beings can alter their lives by altering their attitudes."*
-> — Andrew Carnegie
+> *"You can't have anything worthwhile without difficulties."*
+> — Harry S. Truman
