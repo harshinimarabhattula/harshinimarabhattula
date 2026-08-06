@@ -155,6 +155,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You can't have anything worthwhile without difficulties."*
-> — Harry S. Truman
+> *"You will face many defeats in life, but never let yourself be defeated."*
+> — Maya Angelou
