@@ -157,6 +157,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You will face many defeats in life, but never let yourself be defeated."*
-> — Maya Angelou
+> *"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."*
+> — Buddha
