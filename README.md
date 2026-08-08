@@ -159,6 +159,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."*
-> — Buddha
+> *"Don't let anyone define you. You define yourself."*
+> — Billie Jean King
