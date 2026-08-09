@@ -161,6 +161,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Don't let anyone define you. You define yourself."*
-> — Billie Jean King
+> *"The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong."*
+> — Jeff Booth
