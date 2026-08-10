@@ -163,6 +163,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong."*
-> — Jeff Booth
+> *"To arrive at the simplest truth requires years of contemplation."*
+> — Isaac Newton
