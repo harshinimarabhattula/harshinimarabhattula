@@ -165,6 +165,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"To arrive at the simplest truth requires years of contemplation."*
-> — Isaac Newton
+> *"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."*
+> — Sonia Ricotti
