@@ -167,6 +167,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."*
-> — Sonia Ricotti
+> *"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."*
+> — Dan Millman
