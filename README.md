@@ -169,6 +169,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."*
-> — Dan Millman
+> *"To be happy we need something to solve. Happiness is therefore a form of action."*
+> — Mark Manson
