@@ -173,6 +173,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."*
-> — Robert F. Kennedy
+> *"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."*
+> — Theodore Roosevelt
