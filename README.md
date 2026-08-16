@@ -175,6 +175,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."*
-> — Theodore Roosevelt
+> *"Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two."*
+> — Warren Buffett
