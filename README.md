@@ -177,6 +177,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two."*
-> — Warren Buffett
+> *"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."*
+> — Huang Po
