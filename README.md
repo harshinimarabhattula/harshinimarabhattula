@@ -181,6 +181,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Only I can change my life. No one can do it for me."*
-> — Carol Burnett
+> *"Being ignorant is not so much a shame, as being unwilling to learn."*
+> — Benjamin Franklin
