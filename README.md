@@ -183,6 +183,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Being ignorant is not so much a shame, as being unwilling to learn."*
-> — Benjamin Franklin
+> *"Success is walking from failure to failure with no loss of enthusiasm."*
+> — Colin R. Davis
