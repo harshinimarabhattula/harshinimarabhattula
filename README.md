@@ -185,6 +185,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Success is walking from failure to failure with no loss of enthusiasm."*
-> — Colin R. Davis
+> *"An intelligent person hires people who are more intelligent than he is."*
+> — Robert Kiyosaki
