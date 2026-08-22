@@ -187,6 +187,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"An intelligent person hires people who are more intelligent than he is."*
-> — Robert Kiyosaki
+> *"The people who are crazy enough to think they can change the world are the ones who do."*
+> — Steve Jobs
