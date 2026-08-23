@@ -189,6 +189,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The people who are crazy enough to think they can change the world are the ones who do."*
-> — Steve Jobs
+> *"Be a gift to everyone who enters your life, and to everyone whose life you enter."*
+> — Neale Donald Walsch
