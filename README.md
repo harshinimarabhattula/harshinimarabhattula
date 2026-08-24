@@ -191,6 +191,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Be a gift to everyone who enters your life, and to everyone whose life you enter."*
-> — Neale Donald Walsch
+> *"Only when I fall do I get up again."*
+> — Vincent van Gogh
