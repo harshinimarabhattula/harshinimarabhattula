@@ -193,6 +193,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Only when I fall do I get up again."*
-> — Vincent van Gogh
+> *"If you don't program yourself, life will program you."*
+> — Les Brown
