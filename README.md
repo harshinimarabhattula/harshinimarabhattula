@@ -195,6 +195,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"If you don't program yourself, life will program you."*
-> — Les Brown
+> *"If I love myself I love you. If I love you I love myself."*
+> — Rumi
