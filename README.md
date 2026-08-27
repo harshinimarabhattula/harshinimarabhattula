@@ -197,6 +197,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"If I love myself I love you. If I love you I love myself."*
-> — Rumi
+> *"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."*
+> — Christopher Reeve
