@@ -199,6 +199,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."*
-> — Christopher Reeve
+> *"What one does is what counts. Not what one had the intention of doing."*
+> — Pablo Picasso
