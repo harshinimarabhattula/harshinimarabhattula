@@ -201,6 +201,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"What one does is what counts. Not what one had the intention of doing."*
-> — Pablo Picasso
+> *"Music is like creating an emotional painting. The sounds are the colors."*
+> — Yanni
