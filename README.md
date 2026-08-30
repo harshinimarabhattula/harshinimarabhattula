@@ -203,6 +203,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Music is like creating an emotional painting. The sounds are the colors."*
-> — Yanni
+> *"A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy."*
+> — Norman Vincent Peale
