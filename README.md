@@ -207,6 +207,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."*
-> — Socrates
+> *"It is easier to fight for one's principles than to live up to them."*
+> — Alfred Adler
