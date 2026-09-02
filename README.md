@@ -209,6 +209,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"It is easier to fight for one's principles than to live up to them."*
-> — Alfred Adler
+> *"The wisest men follow their own direction."*
+> — Euripides
