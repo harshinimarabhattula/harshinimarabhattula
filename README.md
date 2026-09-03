@@ -211,6 +211,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The wisest men follow their own direction."*
-> — Euripides
+> *"Being ignorant is not so much a shame, as being unwilling to learn."*
+> — Benjamin Franklin
