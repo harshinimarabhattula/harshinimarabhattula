@@ -213,6 +213,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Being ignorant is not so much a shame, as being unwilling to learn."*
-> — Benjamin Franklin
+> *"Relax. Nothing is under control."*
+> — Adi Da Samraj
