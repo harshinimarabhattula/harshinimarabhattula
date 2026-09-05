@@ -215,6 +215,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Relax. Nothing is under control."*
-> — Adi Da Samraj
+> *"Never confuse a single defeat with a final defeat."*
+> — F. Scott Fitzgerald
