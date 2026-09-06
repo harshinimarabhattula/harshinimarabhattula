@@ -217,6 +217,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Never confuse a single defeat with a final defeat."*
-> — F. Scott Fitzgerald
+> *"It is not as important how we start, but how we finish."*
+> — Joyce Meyer
