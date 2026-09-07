@@ -219,6 +219,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"It is not as important how we start, but how we finish."*
-> — Joyce Meyer
+> *"Wherever you are, it's the place you need to be."*
+> — Maxime Lagace
