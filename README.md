@@ -221,6 +221,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Wherever you are, it's the place you need to be."*
-> — Maxime Lagace
+> *"A golden cage is still just a cage."*
+> — Anita Krizzan
