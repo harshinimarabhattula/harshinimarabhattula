@@ -223,6 +223,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"A golden cage is still just a cage."*
-> — Anita Krizzan
+> *"Passion is born deaf and dumb."*
+> — Honore de Balzac
