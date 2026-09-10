@@ -225,6 +225,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Passion is born deaf and dumb."*
-> — Honore de Balzac
+> *"Be curious, not judgmental."*
+> — Walt Whitman
