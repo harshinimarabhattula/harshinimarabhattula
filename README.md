@@ -227,6 +227,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Be curious, not judgmental."*
-> — Walt Whitman
+> *"Remember we're all in this alone."*
+> — Lily Tomlin
