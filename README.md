@@ -229,6 +229,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Remember we're all in this alone."*
-> — Lily Tomlin
+> *"You must either modify your dreams or magnify your skills."*
+> — Jim Rohn
