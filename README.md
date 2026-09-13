@@ -231,6 +231,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You must either modify your dreams or magnify your skills."*
-> — Jim Rohn
+> *"The biggest room in the world is the room for improvement."*
+> — Unknown
