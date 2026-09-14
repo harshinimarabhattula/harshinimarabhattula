@@ -233,6 +233,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The biggest room in the world is the room for improvement."*
-> — Unknown
+> *"Winning isn't everything, but wanting to win is."*
+> — Vince Lombardi
