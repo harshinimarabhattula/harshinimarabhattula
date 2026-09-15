@@ -235,6 +235,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Winning isn't everything, but wanting to win is."*
-> — Vince Lombardi
+> *"A poet should be so crafty with words that he is envied even for his pains."*
+> — Criss Jami
