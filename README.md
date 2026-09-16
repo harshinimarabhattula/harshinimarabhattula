@@ -237,6 +237,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"A poet should be so crafty with words that he is envied even for his pains."*
-> — Criss Jami
+> *"Only in the agony of parting do we look into the depths of love."*
+> — George Eliot
