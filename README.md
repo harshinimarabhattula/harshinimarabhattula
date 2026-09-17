@@ -239,6 +239,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Only in the agony of parting do we look into the depths of love."*
-> — George Eliot
+> *"Investing in yourself is the best investment you will ever make."*
+> — Robin Sharma
