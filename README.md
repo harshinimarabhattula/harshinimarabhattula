@@ -241,6 +241,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Investing in yourself is the best investment you will ever make."*
-> — Robin Sharma
+> *"Character is doing what you don't want to do but know you should do."*
+> — Joyce Meyer
