@@ -243,6 +243,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Character is doing what you don't want to do but know you should do."*
-> — Joyce Meyer
+> *"Beware of false knowledge, it is more dangerous than ignorance."*
+> — George Bernard Shaw
