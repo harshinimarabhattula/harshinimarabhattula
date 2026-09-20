@@ -245,6 +245,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Beware of false knowledge, it is more dangerous than ignorance."*
-> — George Bernard Shaw
+> *"If you're brave enough to say goodbye, life will reward you with a new hello."*
+> — Paulo Coelho
