@@ -247,6 +247,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"If you're brave enough to say goodbye, life will reward you with a new hello."*
-> — Paulo Coelho
+> *"Attitude drives actions. Actions drive results. Results drive lifestyles."*
+> — Jim Rohn
