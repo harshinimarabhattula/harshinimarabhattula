@@ -249,6 +249,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Attitude drives actions. Actions drive results. Results drive lifestyles."*
-> — Jim Rohn
+> *"Conscience is a man's compass."*
+> — Vincent van Gogh
