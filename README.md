@@ -251,6 +251,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Conscience is a man's compass."*
-> — Vincent van Gogh
+> *"The clock indicates the moment...but what does eternity indicate?"*
+> — Walt Whitman
