@@ -253,6 +253,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The clock indicates the moment...but what does eternity indicate?"*
-> — Walt Whitman
+> *"Create each day anew."*
+> — Morihei Ueshiba
