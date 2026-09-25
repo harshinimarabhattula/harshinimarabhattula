@@ -255,6 +255,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Create each day anew."*
-> — Morihei Ueshiba
+> *"If you quit once it becomes a habit."*
+> — Michael Jordan
