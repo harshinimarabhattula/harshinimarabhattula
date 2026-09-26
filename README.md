@@ -257,6 +257,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"If you quit once it becomes a habit."*
-> — Michael Jordan
+> *"If it's not broken, tinker with it till you find out how it works."*
+> — Bob Proctor
