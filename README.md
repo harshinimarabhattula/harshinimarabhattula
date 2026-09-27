@@ -259,6 +259,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"If it's not broken, tinker with it till you find out how it works."*
-> — Bob Proctor
+> *"Do what you can, with what you have, where you are."*
+> — Colin R. Davis
