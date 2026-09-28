@@ -261,6 +261,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Do what you can, with what you have, where you are."*
-> — Colin R. Davis
+> *"Each time we don't say what we wanna say, we're dying."*
+> — Yoko Ono
