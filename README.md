@@ -263,6 +263,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Each time we don't say what we wanna say, we're dying."*
-> — Yoko Ono
+> *"Do not try to be on the side of the majority, but live according to your inner laws."*
+> — Marcus Aurelius
