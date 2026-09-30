@@ -265,6 +265,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Do not try to be on the side of the majority, but live according to your inner laws."*
-> — Marcus Aurelius
+> *"Trust is the foundation of great leadership."*
+> — Lolly Daskal
