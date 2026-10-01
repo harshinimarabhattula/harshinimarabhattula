@@ -267,6 +267,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Trust is the foundation of great leadership."*
-> — Lolly Daskal
+> *"You can only be afraid of what you think you know."*
+> — Jiddu Krishnamurti
