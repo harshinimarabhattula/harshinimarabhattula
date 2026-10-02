@@ -269,6 +269,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You can only be afraid of what you think you know."*
-> — Jiddu Krishnamurti
+> *"Observe things as they are and don't pay attention to other people."*
+> — Huang Po
