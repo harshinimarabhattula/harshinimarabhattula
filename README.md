@@ -271,6 +271,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Observe things as they are and don't pay attention to other people."*
-> — Huang Po
+> *"The best teacher is experience and not through someone's distorted point of view."*
+> — Jack Kerouac
