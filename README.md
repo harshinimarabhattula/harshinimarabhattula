@@ -273,6 +273,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The best teacher is experience and not through someone's distorted point of view."*
-> — Jack Kerouac
+> *"No man is free who is not master of himself."*
+> — Epictetus
