@@ -275,6 +275,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"No man is free who is not master of himself."*
-> — Epictetus
+> *"Every blessing ignored becomes a curse."*
+> — Paulo Coelho
