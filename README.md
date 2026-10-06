@@ -277,6 +277,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Every blessing ignored becomes a curse."*
-> — Paulo Coelho
+> *"Conquer the devils with a little thing called love."*
+> — Bob Marley
