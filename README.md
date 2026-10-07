@@ -279,6 +279,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Conquer the devils with a little thing called love."*
-> — Bob Marley
+> *"Do not bite at the bait of pleasure, till you know there is no hook beneath it."*
+> — Thomas Jefferson
