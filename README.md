@@ -281,6 +281,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Do not bite at the bait of pleasure, till you know there is no hook beneath it."*
-> — Thomas Jefferson
+> *"Every day passes whether you participate or not."*
+> — Ming-Dao Deng
