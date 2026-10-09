@@ -283,6 +283,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Every day passes whether you participate or not."*
-> — Ming-Dao Deng
+> *"The one who boasts does so only out of a feeling of inferiority."*
+> — Alfred Adler
