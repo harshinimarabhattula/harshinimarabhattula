@@ -285,6 +285,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The one who boasts does so only out of a feeling of inferiority."*
-> — Alfred Adler
+> *"The more one judges, the less one loves."*
+> — Honore de Balzac
