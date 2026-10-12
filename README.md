@@ -289,6 +289,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"When there is nothing to do, do nothing."*
-> — Warren Buffett
+> *"The score never interested me, only the game."*
+> — Mae West
