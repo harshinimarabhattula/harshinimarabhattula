@@ -291,6 +291,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The score never interested me, only the game."*
-> — Mae West
+> *"Nothing is more real than nothing."*
+> — Samuel Beckett
