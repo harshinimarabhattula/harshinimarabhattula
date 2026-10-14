@@ -293,6 +293,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Nothing is more real than nothing."*
-> — Samuel Beckett
+> *"The greatest mistake you can make in life is to be continually fearing you will make one."*
+> — Elbert Hubbard
