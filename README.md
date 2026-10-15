@@ -295,6 +295,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The greatest mistake you can make in life is to be continually fearing you will make one."*
-> — Elbert Hubbard
+> *"If you want to see things just as they are, then you yourself must practice just as you are."*
+> — Dogen
