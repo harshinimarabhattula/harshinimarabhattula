@@ -299,6 +299,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Every time we liberate a woman, we liberate a man."*
-> — Margaret Mead
+> *"There can be no deep disappointment where there is not deep love."*
+> — Martin Luther King, Jr.
