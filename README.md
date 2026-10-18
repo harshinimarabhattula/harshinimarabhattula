@@ -301,6 +301,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"There can be no deep disappointment where there is not deep love."*
-> — Martin Luther King, Jr.
+> *"A hopeless man is a very desperate and dangerous man, almost a dead man."*
+> — Robert F. Kennedy
