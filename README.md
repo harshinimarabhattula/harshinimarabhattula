@@ -303,6 +303,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"A hopeless man is a very desperate and dangerous man, almost a dead man."*
-> — Robert F. Kennedy
+> *"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."*
+> — Roy T. Bennett
