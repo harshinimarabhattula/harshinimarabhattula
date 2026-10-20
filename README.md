@@ -305,6 +305,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."*
-> — Roy T. Bennett
+> *"Insanity: doing the same thing over and over again and expecting different results."*
+> — Albert Einstein
