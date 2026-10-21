@@ -307,6 +307,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Insanity: doing the same thing over and over again and expecting different results."*
-> — Albert Einstein
+> *"Exceptional thinkers ignore their critics and go about their business making history."*
+> — John Eliot
