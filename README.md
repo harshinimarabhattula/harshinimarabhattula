@@ -309,6 +309,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Exceptional thinkers ignore their critics and go about their business making history."*
-> — John Eliot
+> *"Elegance does not consist in putting on a new dress."*
+> — Coco Chanel
