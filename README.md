@@ -311,6 +311,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Elegance does not consist in putting on a new dress."*
-> — Coco Chanel
+> *"The golden opportunity you are seeking is within yourself."*
+> — Mary Engelbreit
