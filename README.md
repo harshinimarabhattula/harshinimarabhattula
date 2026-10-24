@@ -313,6 +313,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The golden opportunity you are seeking is within yourself."*
-> — Mary Engelbreit
+> *"Knowing others is wisdom, knowing yourself is enlightenment."*
+> — Lao Tzu
