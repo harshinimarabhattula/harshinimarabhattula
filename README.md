@@ -315,6 +315,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Knowing others is wisdom, knowing yourself is enlightenment."*
-> — Lao Tzu
+> *"Older men declare war. But it is youth that must fight and die."*
+> — Herbert Hoover
