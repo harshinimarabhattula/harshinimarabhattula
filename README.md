@@ -317,6 +317,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Older men declare war. But it is youth that must fight and die."*
-> — Herbert Hoover
+> *"Study logic and math, because once you've mastered them, you won't fear any book."*
+> — Naval Ravikant
