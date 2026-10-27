@@ -319,6 +319,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Study logic and math, because once you've mastered them, you won't fear any book."*
-> — Naval Ravikant
+> *"There are two kinds of perfect people: those who are dead, and those who have not been born yet."*
+> — Chinese Proverb
