@@ -321,6 +321,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"There are two kinds of perfect people: those who are dead, and those who have not been born yet."*
-> — Chinese Proverb
+> *"Without the rain there would be no rainbow."*
+> — Gilbert Chesterton
