@@ -323,6 +323,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Without the rain there would be no rainbow."*
-> — Gilbert Chesterton
+> *"The quality of your life is determined by the quality of questions you ask."*
+> — Tony Robbins
