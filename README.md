@@ -325,6 +325,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The quality of your life is determined by the quality of questions you ask."*
-> — Tony Robbins
+> *"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."*
+> — Albus Dumbledore
