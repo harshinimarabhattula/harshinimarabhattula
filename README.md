@@ -327,6 +327,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."*
-> — Albus Dumbledore
+> *"The question isn't who is going to let me; it's who is going to stop me."*
+> — Ayn Rand
