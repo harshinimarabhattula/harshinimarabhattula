@@ -329,6 +329,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The question isn't who is going to let me; it's who is going to stop me."*
-> — Ayn Rand
+> *"Be confident, not certain."*
+> — Eleanor Roosevelt
