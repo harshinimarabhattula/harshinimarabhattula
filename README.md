@@ -331,6 +331,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Be confident, not certain."*
-> — Eleanor Roosevelt
+> *"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."*
+> — Andrew Carnegie
