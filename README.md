@@ -333,6 +333,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."*
-> — Andrew Carnegie
+> *"Keep your dreams, you never know when you might need them."*
+> — Carlos Ruiz Zafon
