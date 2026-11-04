@@ -335,6 +335,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Keep your dreams, you never know when you might need them."*
-> — Carlos Ruiz Zafon
+> *"There's no coming to consciousness without pain"*
+> — Carl Jung
