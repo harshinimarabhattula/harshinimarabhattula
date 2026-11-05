@@ -337,6 +337,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"There's no coming to consciousness without pain"*
-> — Carl Jung
+> *"Work is always an antidote to depression."*
+> — Eleanor Roosevelt
