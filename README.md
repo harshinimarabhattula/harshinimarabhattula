@@ -339,6 +339,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Work is always an antidote to depression."*
-> — Eleanor Roosevelt
+> *"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow."*
+> — Orison Swett Marden
