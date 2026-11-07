@@ -341,6 +341,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow."*
-> — Orison Swett Marden
+> *"You can only lose something that you have, but you cannot lose something that you are."*
+> — Eckhart Tolle
