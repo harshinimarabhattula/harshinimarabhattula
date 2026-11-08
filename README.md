@@ -343,6 +343,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You can only lose something that you have, but you cannot lose something that you are."*
-> — Eckhart Tolle
+> *"I am who I am today because of the choices I made yesterday."*
+> — Eleanor Roosevelt
