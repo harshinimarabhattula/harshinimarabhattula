@@ -345,6 +345,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"I am who I am today because of the choices I made yesterday."*
-> — Eleanor Roosevelt
+> *"The quieter you become, the more you are able to hear."*
+> — Rumi
