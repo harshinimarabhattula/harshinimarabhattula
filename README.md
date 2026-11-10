@@ -347,6 +347,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The quieter you become, the more you are able to hear."*
-> — Rumi
+> *"Life is filled with secrets. You can't learn them all at once."*
+> — Dan Brown
