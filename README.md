@@ -349,6 +349,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Life is filled with secrets. You can't learn them all at once."*
-> — Dan Brown
+> *"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."*
+> — Marcus Aurelius
