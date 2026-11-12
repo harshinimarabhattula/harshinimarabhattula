@@ -351,6 +351,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."*
-> — Marcus Aurelius
+> *"It is our experiences that mold us into who we are...during times of adversity our true character will show."*
+> — Unknown
