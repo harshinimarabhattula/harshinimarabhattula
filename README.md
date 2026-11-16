@@ -359,6 +359,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Don't hate the player. Change the game."*
-> — Steve Harvey
+> *"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."*
+> — Alfred Adler
