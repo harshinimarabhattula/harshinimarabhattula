@@ -361,6 +361,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."*
-> — Alfred Adler
+> *"The weak can never forgive. Forgiveness is the attribute of the strong."*
+> — Mahatma Gandhi
