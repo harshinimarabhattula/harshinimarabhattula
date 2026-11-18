@@ -363,6 +363,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The weak can never forgive. Forgiveness is the attribute of the strong."*
-> — Mahatma Gandhi
+> *"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."*
+> — Robert Collier
