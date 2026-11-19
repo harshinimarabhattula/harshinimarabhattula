@@ -365,6 +365,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."*
-> — Robert Collier
+> *"I don't walk away from things that I think are unfinished."*
+> — Arnold Schwarzenegger
