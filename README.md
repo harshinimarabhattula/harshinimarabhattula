@@ -367,6 +367,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"I don't walk away from things that I think are unfinished."*
-> — Arnold Schwarzenegger
+> *"The road to success is always under construction.."*
+> — Lily Tomlin
