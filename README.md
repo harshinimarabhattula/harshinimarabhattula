@@ -369,6 +369,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The road to success is always under construction.."*
-> — Lily Tomlin
+> *"You don't need to be better than anyone else, you just need to be better than you used to be."*
+> — Wayne Dyer
