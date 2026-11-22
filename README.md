@@ -371,6 +371,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You don't need to be better than anyone else, you just need to be better than you used to be."*
-> — Wayne Dyer
+> *"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."*
+> — Sonia Ricotti
