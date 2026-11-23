@@ -373,6 +373,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."*
-> — Sonia Ricotti
+> *"It is what we make out of what we have, not what we are given, that separates one person from another."*
+> — Nelson Mandela
