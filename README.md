@@ -375,6 +375,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"It is what we make out of what we have, not what we are given, that separates one person from another."*
-> — Nelson Mandela
+> *"Success comes from knowing that you did your best to become the best that you are capable of becoming."*
+> — John Wooden
