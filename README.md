@@ -377,6 +377,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Success comes from knowing that you did your best to become the best that you are capable of becoming."*
-> — John Wooden
+> *"The key to immortality is first living a life worth remembering."*
+> — Bruce Lee
