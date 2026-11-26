@@ -379,6 +379,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"The key to immortality is first living a life worth remembering."*
-> — Bruce Lee
+> *"You use a glass mirror to see your face; you use works of art to see your soul."*
+> — George Bernard Shaw
