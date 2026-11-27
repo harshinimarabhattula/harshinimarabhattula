@@ -381,6 +381,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"You use a glass mirror to see your face; you use works of art to see your soul."*
-> — George Bernard Shaw
+> *"Keep your eyes on the stars, but remember to keep your feet on the ground."*
+> — Theodore Roosevelt
