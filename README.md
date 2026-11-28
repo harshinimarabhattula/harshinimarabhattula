@@ -383,6 +383,8 @@ Mission  : Automate Everything. Break Nothing.
 
 
 
+
+
 ## 💬 Today's DevOps Motivation
-> *"Keep your eyes on the stars, but remember to keep your feet on the ground."*
-> — Theodore Roosevelt
+> *"Always be a first rate version of yourself and not a second rate version of someone else."*
+> — Judy Garland
